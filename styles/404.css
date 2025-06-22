@@ -1,0 +1,124 @@
+/* 1440 */
+
+@media (max-width: 1440px) {
+
+  ul {
+    gap: 60px;
+    font-size: 24px;
+  }
+
+  .logo h2 {
+    padding-right: 0px;
+    font-size: 36px;
+  }
+
+  a {
+    font-size: 24px;
+  }
+
+  h2 {
+    font-size: 26px;
+  }
+
+  .h2_about {
+    margin-bottom: 20px;
+  }
+
+  .about_texttwo {
+    margin: 50px auto;
+  }
+
+  .shapka {
+    margin-bottom: 32px;
+    height: 60px;
+    gap: 40px;
+  }
+
+  .fotologo {
+    width: 25px;
+    height: 25px;
+  }
+
+
+  p {
+    font-size: 24px;
+    padding: 0;
+  }
+
+  .linia {
+    margin-top: 100px;
+  }
+
+  .Telefon {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  .tel {
+    font-size: 24px;
+    margin-bottom: 40px;
+    padding-top: 0;
+  }
+
+  .pochta {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  .Poch {
+    font-size: 24px;
+    padding-top: 0;
+  }
+
+  .spisoc {
+    font-size: 24px;
+    margin-bottom: 10px;
+
+  }
+
+  .logooo {
+    padding-right: 40px;
+    margin-bottom: 36px;
+
+  }
+
+  .Razdelfooter {
+    margin-top: 60px;
+    margin-bottom: 20px;
+  }
+
+  .ttt {
+    font-size: 160px;
+    padding: 0;
+    font-weight: 400;
+  }
+
+  .shar {
+    width: 450px;
+    height: 420px;
+  }
+
+  .pp {
+    margin-top: 20px;
+    font-size: 24px;
+    padding: 0;
+  }
+
+
+  .Oshibka {
+    gap: 10px;
+    margin-top: 100px;
+  }
+
+  .glav {
+    width: 60%;
+    height: 55px;
+    border: 2px solid #E0EDFF;
+    border-radius: 12px;
+    text-transform: uppercase;
+    font-weight: 100;
+    font-size: 24px;
+    margin-top: 40px;
+  }
+
+}

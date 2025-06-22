@@ -1,0 +1,120 @@
+/* 1280 */
+
+@media (max-width: 1280px) {
+
+  .logo {
+    padding-right: 50px;
+  }
+
+  ul {
+    gap: 40px;
+    font-size: 24px;
+  }
+
+  .Baner {
+    width: 100%;
+    background-size: contain;
+    height: 618px;
+    background-position: center;
+    margin-top: 20px;
+  }
+
+  .Nazvanie {
+    font-size: 54px;
+    text-align: center;
+    letter-spacing: 40px;
+    padding-top: 208px;
+  }
+
+  .PODNazvanie {
+    padding-top: 0;
+  }
+
+  .Okompanii {
+    margin-top: 80px;
+  }
+
+  .Podrobnee {
+    width: 338px;
+    font-size: 22px;
+    border-radius: 20px;
+    height: 65px;
+  }
+
+  .open-popup-btn {
+    width: 338px;
+    font-size: 22px;
+    border-radius: 20px;
+    height: 65px;
+  }
+
+  .kultura {
+    margin-top: 80px;
+  }
+
+  .textZAG {
+    font-size: 30px;
+  }
+
+  h2 {
+    font-size: 24px;
+  }
+
+  p {
+    font-size: 24px;
+  }
+
+  .item_32 {
+    width: 100%;
+    height: 550px;
+  }
+
+  .item_22 {
+    width: 100%;
+    height: 550px;
+  }
+
+  .item_12 {
+    width: 100%;
+    height: 550px;
+  }
+
+  .ffff {
+    height: 350px;
+    width: 340px;
+    border-radius: 10px;
+  }
+
+  .Otziv {
+    margin-top: 80px;
+    margin-bottom: 40px;
+  }
+
+  .One {
+    border-radius: 20px;
+    justify-content: none;
+    padding: 30px;
+  }
+
+  .Two {
+    border-radius: 20px;
+    justify-content: none;
+    padding: 30px;
+  }
+
+  .Free {
+    border-radius: 20px;
+    justify-content: none;
+    padding: 30px;
+  }
+
+  .textOtziv br {
+    display: none;
+  }
+
+  .spisoc p {
+    font-size: 22px;
+  }
+
+
+}

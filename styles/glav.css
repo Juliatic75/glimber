@@ -1,0 +1,248 @@
+/*Адаптация*/
+
+
+/* 1440 */
+
+@media (max-width: 1440px) {
+  ul {
+    gap: 60px;
+    font-size: 24px;
+  }
+
+  .logo h2 {
+    padding-right: 0px;
+    font-size: 36px;
+  }
+
+  a {
+    font-size: 24px;
+  }
+
+  h2 {
+    font-size: 26px;
+  }
+
+  .h2_about {
+    margin-bottom: 20px;
+  }
+
+  .about_texttwo {
+    margin: 50px auto;
+  }
+
+  .shapka {
+    margin-bottom: 0;
+    height: 60px;
+    gap: 40px;
+  }
+
+  .fotologo {
+    width: 25px;
+    height: 25px;
+  }
+
+  .Baner {
+    width: 100%;
+    background-size: contain;
+    height: 688px;
+    background-position: center;
+    margin-top: 20px;
+  }
+
+  .Nazvanie {
+    font-size: 62px;
+    text-align: center;
+    letter-spacing: 48px;
+    padding-top: 224px;
+    padding-left: 30px;
+  }
+
+  .PODNazvanie {
+    font-size: 10px;
+    padding-top: 2px;
+    padding-left: 3px;
+  }
+
+  .text {
+    font-size: 24px;
+  }
+
+  .text br {
+    display: none;
+  }
+
+  .Okompanii {
+    grid-template-rows: 0.3fr 0.3fr 0.1fr;
+    margin-top: 100px;
+    margin-bottom: 0;
+  }
+
+  .about_text {
+    margin: 30px;
+  }
+
+  .textZAG {
+    font-size: 26px;
+  }
+
+  .Podrobnee {
+    width: 376px;
+    font-size: 22px;
+    border-radius: 20px;
+    height: 65px;
+  }
+
+  .open-popup-btn {
+    width: 376px;
+    font-size: 22px;
+    border-radius: 20px;
+    height: 65px;
+  }
+
+  .kultura {
+    margin-top: 100px;
+    margin-bottom: 0px;
+  }
+
+  p {
+    font-size: 24px;
+    padding: 0;
+  }
+
+  .item_12 {
+    width: 100%;
+    height: 600px;
+  }
+
+  .item_22 {
+    width: 100%;
+    height: 600px;
+  }
+
+  .item_32 {
+    width: 100%;
+    height: 600px;
+  }
+
+  .ffff {
+    height: 390px;
+    width: 380px;
+    border-radius: 10px;
+  }
+
+  .h3_about {
+    font-size: 24px;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+
+  .textPodrobnee {
+    font-size: 24px;
+    margin-left: 20px;
+    margin-top: 20px;
+
+  }
+
+  .Otziv {
+    margin-top: 100px;
+    margin-bottom: 60px;
+  }
+
+  .Name {
+    font-size: 24px;
+  }
+
+  .fch {
+    width: 80px;
+    height: 80px;
+  }
+
+  .textOtziv {
+
+    font-size: 24px;
+  }
+
+  .Free {
+    border-radius: 20px;
+    justify-content: none;
+    padding: 40px;
+  }
+
+  .Two {
+    border-radius: 20px;
+    justify-content: none;
+    padding: 40px;
+  }
+
+  .One {
+    border-radius: 20px;
+    justify-content: none;
+    padding: 40px;
+  }
+
+  .RazdelOtziv {
+    margin-top: 0;
+    gap: 10px;
+  }
+
+  .textOcenka {
+    font-size: 24px;
+  }
+
+  .zzz {
+    width: 160px;
+    height: 30px;
+  }
+
+  .knopki {
+    gap: 10px;
+  }
+
+  .PodText {
+    margin-top: 40px;
+
+  }
+
+  .linia {
+    margin-top: 100px;
+  }
+
+  .Telefon {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  .tel {
+    font-size: 24px;
+    margin-bottom: 40px;
+    padding-top: 0;
+  }
+
+  .pochta {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  .Poch {
+    font-size: 24px;
+    padding-top: 0;
+  }
+
+  .spisoc {
+    font-size: 24px;
+    margin-bottom: 10px;
+
+  }
+
+  .logooo {
+    padding-right: 40px;
+    margin-bottom: 36px;
+
+  }
+
+  .Razdelfooter {
+    margin-top: 60px;
+    margin-bottom: 20px;
+  }
+}
+

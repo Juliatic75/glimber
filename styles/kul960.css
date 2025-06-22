@@ -1,0 +1,138 @@
+@media (max-width: 960px) {
+  ul {
+    gap: 30px;
+    font-size: 16px;
+  }
+
+  .logo {
+    padding-right: 0;
+  }
+
+  .logo h2 {
+    font-size: 28px;
+    padding-right: 14px;
+  }
+
+  a {
+    font-size: 18px;
+  }
+
+  h2 {
+    font-size: 22px;
+  }
+
+  .h2_about {
+    margin-bottom: 0px;
+  }
+
+  .about_texttwo {
+    margin: 50px auto;
+  }
+
+  .shapka {
+    margin-bottom: 0;
+    height: 60px;
+  }
+
+  .fotologo {
+    width: 24px;
+    height: 24px;
+  }
+
+
+  .text {
+    font-size: 18px;
+  }
+
+  .linia {
+    margin-top: 60px;
+  }
+
+  .Telefon {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+
+  .tel {
+    font-size: 20px;
+    margin-bottom: 40px;
+    padding-top: 0;
+  }
+
+  .pochta {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+
+  .Poch {
+    font-size: 18px;
+    padding-top: 0;
+  }
+
+  .spisoc {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+
+  .logooo {
+    padding-right: 40px;
+    margin-bottom: 23px;
+  }
+
+  .kulturaBan {
+    margin-top: 40px;
+    height: 400px;
+  }
+
+  .Special {
+    margin-top: 60px;
+  }
+
+  .kulturText {
+    margin-top: 32px;
+    font-size: 18px;
+    padding: 0;
+  }
+
+  .kulturText br {
+    display: none;
+  }
+
+  .meropriatia {
+    gap: 10px;
+    margin-top: 40px;
+  }
+
+  .zOne {
+    font-size: 22px;
+    margin-bottom: 32px;
+  }
+
+  .mOne {
+    width: 100%;
+    height: 300px;
+  }
+
+  .tONE {
+    margin-top: 20px;
+    font-weight: 100;
+    font-size: 18px;
+    padding: 0;
+  }
+
+  p {
+    padding-top: 0px;
+    font-size: 18px;
+    margin: 0px;
+    font-weight: 500;
+  }
+
+  .tONE br {
+    display: none;
+  }
+
+
+  .Razdelfooter {
+    margin-top: 40px;
+  }
+}

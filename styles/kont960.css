@@ -1,0 +1,153 @@
+@media (max-width: 960px) {
+  ul {
+    gap: 30px;
+    font-size: 16px;
+  }
+
+  .logo {
+    padding-right: 0;
+  }
+
+  .logo h2 {
+    font-size: 28px;
+    padding-right: 14px;
+  }
+
+  a {
+    font-size: 18px;
+  }
+
+  h2 {
+    font-size: 22px;
+  }
+
+  .h2_about {
+    margin-bottom: 0px;
+  }
+
+  .about_texttwo {
+    margin: 50px auto;
+  }
+
+  .shapka {
+    margin-bottom: 0;
+    height: 60px;
+  }
+
+  .fotologo {
+    width: 24px;
+    height: 24px;
+  }
+
+  .Baner {
+    width: 960px;
+    background-size: contain;
+    height: 460px;
+    background-position: center;
+  }
+
+  .Nazvanie {
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 30px;
+    padding-top: 155px;
+    padding-left: 30px;
+  }
+
+  .PODNazvanie {
+    font-size: 10px;
+    padding-top: 2px;
+    padding-left: 3px;
+  }
+
+  .text {
+    font-size: 18px;
+  }
+
+  .linia {
+    margin-top: 100px;
+  }
+
+  .Telefon {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+
+  .tel {
+    font-size: 20px;
+    margin-bottom: 40px;
+    padding-top: 0;
+  }
+
+  .pochta {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+
+  .Poch {
+    font-size: 18px;
+    padding-top: 0;
+  }
+
+  .spisoc {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+
+  .logooo {
+    padding-right: 40px;
+    margin-bottom: 23px;
+  }
+
+  .Razdelfooter {
+    margin-top: 40px;
+  }
+
+  .Special {
+    margin-top: 60px;
+  }
+
+  .konf {
+    width: 380px;
+    height: 380px;
+  }
+
+  .Kontakt {
+    margin-top: 40px;
+    gap: 80px;
+  }
+
+  .pochtaaa {
+    font-size: 22px;
+    margin-bottom: 12px;
+  }
+
+  .infoPocht {
+    margin-bottom: 0px;
+  }
+
+  p {
+    font-size: 18px;
+  }
+
+  .TelKon {
+    font-size: 22px;
+    margin-bottom: 12px;
+    margin-top: 22px;
+  }
+
+  .SocKon {
+    font-size: 22px;
+    margin-bottom: 12px;
+    margin-top: 40px;
+  }
+
+  .infoTel {
+    margin-bottom: 10px;
+  }
+
+  .set {
+    width: 40px;
+    height: 40px;
+  }
+}

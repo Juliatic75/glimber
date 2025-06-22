@@ -1,0 +1,288 @@
+/* 1440 */
+@media (max-width: 1440px) {
+
+  ul {
+    gap: 60px;
+    font-size: 24px;
+  }
+
+  .logo h2 {
+    padding-right: 0px;
+    font-size: 36px;
+  }
+
+  a {
+    font-size: 24px;
+  }
+
+  h2 {
+    font-size: 26px;
+  }
+
+  .h2_about {
+    margin-bottom: 20px;
+  }
+
+  .about_texttwo {
+    margin: 50px auto;
+  }
+
+  .shapka {
+    margin-bottom: 32px;
+    height: 60px;
+    gap: 40px;
+  }
+
+  .fotologo {
+    width: 25px;
+    height: 25px;
+  }
+
+
+  h2 {
+    font-size: 26px;
+  }
+
+  p {
+    font-size: 24px;
+    padding: 0;
+  }
+
+  .linia {
+    margin-top: 100px;
+  }
+
+  .Telefon {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  .tel {
+    font-size: 24px;
+    margin-bottom: 40px;
+    padding-top: 0;
+  }
+
+  .pochta {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  .Poch {
+    font-size: 24px;
+    padding-top: 0;
+  }
+
+  .spisoc {
+    font-size: 24px;
+    margin-bottom: 10px;
+
+  }
+
+  .logooo {
+    padding-right: 40px;
+    margin-bottom: 36px;
+
+  }
+
+  .Razdelfooter {
+    margin-top: 60px;
+    margin-bottom: 20px;
+  }
+
+
+  .Prof {
+    margin-top: 100px;
+  }
+
+  .ProfChel {
+    margin-top: 60px;
+    gap: 30px;
+  }
+
+  photo-slider {
+    max-width: 560px;
+    height: 584px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+  }
+
+  .slider-container {
+    height: 540px;
+    width: 460px;
+  }
+
+  .slide img {
+    height: 100%;
+  }
+
+  .next-btn {
+    right: 5px;
+  }
+
+  .prev-btn {
+    left: 40px;
+  }
+
+  .prev-btn, .next-btn {
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 20%;
+    z-index: 10;
+  }
+
+  .dot {
+    width: 30px;
+    height: 30px;
+  }
+
+  .dots-container {
+    text-align: center;
+    padding-top: 40px;
+  }
+
+  .name {
+    font-weight: 500;
+    margin-bottom: 22px;
+  }
+
+  .lineProfTwo {
+    margin-top: 32px;
+    margin-bottom: 32px;
+  }
+
+  .textDost p {
+    padding: 0;
+  }
+
+  .dostig {
+    margin-top: 102px;
+  }
+
+  .photo-slider {
+    max-width: 550px;
+    height: 490px;
+  }
+
+  .dostigTwo {
+    margin-top: 40px;
+  }
+
+  .lineProfTFREe {
+    margin-top: 15px;
+    margin-bottom: 20px;
+  }
+
+  .lineProf {
+    margin-bottom: 20px;
+  }
+
+  .yazik {
+    font-size: 24px;
+  }
+
+  .profSoc {
+    margin-top: 32px;
+    font-family: "Open Sans", sans-serif;
+    color: #ffffff;
+    font-weight: 500;
+  }
+
+  .uroven {
+    border-radius: 20px;
+    height: 32px;
+    margin-top: 20px;
+    margin-bottom: 32px;
+  }
+
+  .urovYaz {
+    border-radius: 20px;
+    height: 31px;
+  }
+
+  .urovYaztwo {
+    border-radius: 20px;
+    height: 31px;
+  }
+
+  .urovYazFree {
+    border-radius: 20px;
+    height: 31px;
+  }
+
+  .Setiprof {
+    margin-top: 40px;
+    gap: 20px;
+  }
+
+  .set {
+    width: 55px;
+    height: 55px;
+  }
+
+  .ZAGportfolio {
+    margin-top: 60px;
+    margin-bottom: 0px;
+    font-weight: 600;
+  }
+
+  .Portfolioo {
+    margin-top: 40px;
+    gap: 20px;
+  }
+
+  .namePort {
+    margin-top: 40px;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+  .textPORT {
+    margin-bottom: 0px;
+    font-size: 24px;
+    margin-top: 0px;
+  }
+
+  .textPORT br {
+    display: none;
+  }
+
+  .Podrob {
+    height: 45px;
+    text-align: center;
+    border: 2px solid #E0EDFF;
+    border-radius: 10px;
+    font-weight: bold;
+    font-weight: 300;
+    font-size: 24px;
+    margin-top: 40px;
+  }
+
+  .ZAGportRec {
+    margin-top: 60px;
+    margin-bottom: 40px;
+  }
+
+  .Rec {
+    margin-top: 0px;
+    gap: 20px;
+  }
+
+  .RECfoto {
+    width: 100%;
+    height: 350px;
+  }
+
+  .nameREC {
+    margin-top: 40px;
+    font-size: 24px;
+  }
+
+  .RECinfo {
+    margin-top: 20px;
+  }
+
+  .INFrecom {
+    padding: 10;
+  }
+}

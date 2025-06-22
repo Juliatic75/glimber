@@ -1,0 +1,117 @@
+@media (max-width: 960px) {
+  ul {
+    gap: 30px;
+    font-size: 16px;
+  }
+
+  .logo {
+    padding-right: 0;
+  }
+
+  .logo h2 {
+    font-size: 28px;
+    padding-right: 14px;
+  }
+
+  a {
+    font-size: 18px;
+  }
+
+  h2 {
+    font-size: 22px;
+  }
+
+  .h2_about {
+    margin-bottom: 0px;
+  }
+
+  .about_texttwo {
+    margin: 50px auto;
+  }
+
+  .shapka {
+    margin-bottom: 0;
+    height: 60px;
+  }
+
+  .fotologo {
+    width: 24px;
+    height: 24px;
+  }
+
+
+  .linia {
+    margin-top: 100px;
+  }
+
+  .Telefon {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+
+  .tel {
+    font-size: 20px;
+    margin-bottom: 40px;
+    padding-top: 0;
+  }
+
+  .pochta {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+
+  .Poch {
+    font-size: 18px;
+    padding-top: 0;
+  }
+
+  .spisoc {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+
+  .logooo {
+    padding-right: 40px;
+    margin-bottom: 23px;
+  }
+
+  .Razdelfooter {
+    margin-top: 40px;
+  }
+
+  .ttt {
+    font-size: 130px;
+    padding: 0;
+  }
+
+  .shar {
+    width: 400px;
+    height: 380px;
+  }
+
+  .pp {
+    margin-top: 8px;
+    font-size: 18px;
+    padding: 0;
+  }
+
+  .pp br {
+    display: none;
+  }
+
+  .Oshibka {
+    gap: 10px;
+    margin-top: 100px;
+  }
+
+  .glav {
+    width: 70%;
+    height: 55px;
+    border: 2px solid #E0EDFF;
+    border-radius: 12px;
+    text-transform: uppercase;
+    font-weight: 100;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+}
