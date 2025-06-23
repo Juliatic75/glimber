@@ -65,7 +65,10 @@
   }
 
   .linia {
-    margin-top: 100px;
+    margin-top: 0px;
+  }
+  .linia2 {
+    margin-top: 60px;
   }
 
   .Telefon {
@@ -150,4 +153,13 @@
     width: 40px;
     height: 40px;
   }
+    .header .logo a {
+  font-weight: 700;
+  font-size: 32px;
+}
+
+.header .nav a {
+  font-size: 20px;
+  font-weight: 400;
+}
 }

@@ -96,6 +96,7 @@
     font-size: 16px;
     border-radius: 10px;
     height: 50px;
+    margin: 0;
 
   }
 
@@ -121,6 +122,11 @@
 
   .item_5 {
     margin-bottom: 8px;
+    display: block;
+  }
+
+  .item_5.knopki {
+    display: block;
   }
 
   .kultura {
@@ -136,20 +142,20 @@
   .item_12 {
     height: 360px;
     width: 100%;
-    margin-bottom: 8px;
-    border-radius: 14px;
+    margin-bottom: 16px;
+    border-radius: 10px;
   }
 
   .item_22 {
     height: 360px;
     width: 100%;
-    margin-bottom: 8px;
+    margin-bottom: 16px;
   }
 
   .item_32 {
     height: 400px;
     width: 100%;
-    margin-bottom: 8px;
+    margin-bottom: 16px;
   }
 
   .ffff {
@@ -189,6 +195,9 @@
   .textOtziv {
     font-size: 16px;
   }
+  .linia2 {
+    margin-top: 40px;
+  }
 
 
   .Free {
@@ -199,13 +208,103 @@
     height: 220px;
   }
 
+  .popup-content {
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    max-width: 380px;
+    width: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    position: relative;
+}
+
+.inpuut {
+    width: 326px;
+    height: 40px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border-color: rgb(143, 143, 143);
+    margin-top: 10px;
+    margin-left: 24px;
+    cursor: pointer;
+}
+
+.minitext2 {
+    font-family: "Onest", sans-serif;
+    font-size: 16px;
+    color: rgb(143, 143, 143);
+    margin-top: 24px;
+    margin-left: 24px;
+    text-decoration: underline;
+}
+    .open-popup-btn {
+        width: 390px;
+        font-size: 14px;
+        border-radius: 10px;
+        height: 50px;
+        margin: 0;
+    }
+
+    .reg {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    width: 326px;
+    height: 55px;
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    font-family: "Onest", sans-serif;
+    font-size: 16px;
+    margin-top: 40px;
+    cursor: pointer;
+    margin-left: 24px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+
+.vxod2 {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    width: 326px;
+    height: 50px;
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    font-family: "Onest", sans-serif;
+    font-size: 16px;
+    margin-top: 64px;
+    cursor: pointer;
+    margin-left: 24px;
+    font-weight: 500;
+}
+
+.vxodreg {
+    font-family: "Onest", sans-serif;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 24px;
+    margin-left: 32px;
+    text-transform: uppercase;
+}
+
+.minitext {
+    font-family: "Onest", sans-serif;
+    font-size: 16px;
+    color: rgb(143, 143, 143);
+    margin-top: 32px;
+    margin-left: 32px;
+}
+
   .Two {
     border-radius: 15px;
     justify-content: none;
     width: 340px;
     padding: 20px;
     height: 240px;
-    margin-bottom: 8px;
+    margin-bottom: 16px;
   }
 
   .One {
@@ -213,7 +312,7 @@
     justify-content: none;
     width: 340px;
     padding: 20px;
-    margin-bottom: 8px;
+    margin-bottom: 16px;
   }
 
   .MasterClass {
@@ -292,4 +391,8 @@
     margin-top: 32px;
     gap: 8px;
   }
+   .header .logo a {
+  font-weight: 700;
+  font-size: 26px;
+}
 }

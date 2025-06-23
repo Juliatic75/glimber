@@ -12,6 +12,9 @@
     font-size: 28px;
     padding-right: 14px;
   }
+  .linia2 {
+    margin-top: 60px;
+  }
 
 
   a {
@@ -238,4 +241,14 @@
   .Razdelfooter {
     margin-top: 40px;
   }
+
+  .header .logo a {
+  font-weight: 700;
+  font-size: 32px;
+}
+
+.header .nav a {
+  font-size: 20px;
+  font-weight: 400;
+}
 }

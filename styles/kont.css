@@ -33,6 +33,9 @@
     height: 60px;
     gap: 40px;
   }
+  .linia2 {
+    margin-top: 100px;
+  }
 
   .fotologo {
     width: 25px;
@@ -50,7 +53,7 @@
   }
 
   .linia {
-    margin-top: 100px;
+    margin-top: 0px;
   }
 
   .Telefon {

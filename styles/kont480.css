@@ -27,29 +27,19 @@
     margin-top: 24px;
   }
 
-  .about_texttwo {
-    margin: 24px;
-  }
+  .Kontakt {
+    margin-top: 40px;
+    gap: 80px;
+    display: block;
+}
 
-  .shapka {
-    margin-bottom: 0;
-    height: 40px;
-  }
+.konf {
+    width: 100%;
+    height: 340px;
+    margin-bottom: 32px;
+}
 
-  .fotologo {
-    width: 24px;
-    height: 24px;
-  }
-
-  .linia {
-    margin-top: 0px;
-  }
-  .linia2 {
-    margin-top: 100px;
-  }
-
-
-  .Telefon {
+.Telefon {
     font-size: 14px;
     margin-bottom: 5px;
   }
@@ -90,48 +80,10 @@
     gap: 8px;
   }
 
-  .liniaTwo {
-    width: 100%;
-    height: 1px;
-    margin-top: 32px;
+  .linia2 {
+    margin-top: 280px;
   }
-
-  .Oshibka {
-    gap: 10px;
-    margin-top: 120px;
-    display: block;
-  }
-
-  .ttt {
-    font-size: 90px;
-    padding: 0;
-  }
-
-  .shar {
-    display: none;
-  }
-
-  .pp {
-    margin-top: 8px;
-    font-size: 16px;
-    padding: 0;
-  }
-
-  .pp br {
-    display: none;
-  }
-
-  .glav {
-    width: 100%;
-    height: 50px;
-    border: 2px solid #E0EDFF;
-    border-radius: 12px;
-    text-transform: uppercase;
-    font-weight: 100;
-    font-size: 16px;
-    margin-top: 20px;
-  }
-    .header .logo a {
+   .header .logo a {
   font-weight: 700;
   font-size: 26px;
 }

@@ -64,6 +64,9 @@
   h2 {
     font-size: 26px;
   }
+  .linia2 {
+    margin-top: 100px;
+  }
 
   p {
     font-size: 22px;
@@ -71,7 +74,7 @@
   }
 
   .linia {
-    margin-top: 100px;
+    margin-top:0 px;
   }
 
   .Telefon {

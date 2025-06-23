@@ -30,10 +30,16 @@
   .about_texttwo {
     margin: 24px;
   }
+  .photo-card .text-block {
+    min-height: 160px;
+}
 
   .shapka {
     margin-bottom: 0;
     height: 32px;
+  }
+  .linia2 {
+    margin-top: 60px;
   }
 
   .fotologo {
@@ -42,7 +48,7 @@
   }
 
   .linia {
-    margin-top: 40px;
+    margin-top: 0px;
   }
 
   .Telefon {
@@ -168,4 +174,8 @@
     margin-top: 60px;
     margin-bottom: 60px;
   }
+   .header .logo a {
+  font-weight: 700;
+  font-size: 26px;
+}
 }

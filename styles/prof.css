@@ -26,6 +26,9 @@
   .about_texttwo {
     margin: 50px auto;
   }
+  .linia2 {
+    margin-top: 100px;
+  }
 
   .shapka {
     margin-bottom: 32px;
@@ -49,7 +52,7 @@
   }
 
   .linia {
-    margin-top: 100px;
+    margin-top: 0px;
   }
 
   .Telefon {
@@ -241,6 +244,7 @@
     margin-bottom: 0px;
     font-size: 24px;
     margin-top: 0px;
+    min-height: 180px;
   }
 
   .textPORT br {
@@ -248,7 +252,7 @@
   }
 
   .Podrob {
-    height: 45px;
+    height: 65px;
     text-align: center;
     border: 2px solid #E0EDFF;
     border-radius: 10px;
