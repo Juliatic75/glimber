@@ -318,6 +318,8 @@ ul {
   gap: 10px;
 }
 
+
+
 .One {
   border-radius: 20px;
   border: 2px solid white;
@@ -1233,6 +1235,14 @@ ul {
 
   a {
     font-size: 22px;
+  }
+}
+
+@media (max-width: 1920px) {
+
+  .linia2
+  {
+    margin-top: 140px;
   }
 }
 
